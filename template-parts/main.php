@@ -19,7 +19,7 @@
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/iots.jpeg" style="width:100%">
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/ios.png" style="width:100%">
             <div class="text">Caption Three</div>
         </div>
 
